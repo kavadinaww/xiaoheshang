@@ -1,0 +1,5 @@
+*.mp4
+*.mov
+*_frames/
+__pycache__/
+.env
